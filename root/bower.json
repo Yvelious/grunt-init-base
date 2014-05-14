@@ -1,0 +1,10 @@
+{
+  "name": "base",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+  ],
+  "dependencies": {
+    "bootstrap": "latest"
+  }
+}
